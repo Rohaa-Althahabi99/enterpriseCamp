@@ -355,28 +355,6 @@ JWT_EXPIRES_IN=24h
 
 ---
 
-## Future Enhancements
-
-### Phase 2 Considerations
-1. **Multi-Factor Authentication (MFA)**
-   - SMS/Email verification
-   - Google Authenticator integration
-
-2. **Password Reset Functionality**
-   - Email-based password reset
-   - Secure password update process
-
-3. **Advanced Security Features**
-   - Login attempt monitoring
-   - Suspicious activity detection
-   - IP whitelisting
-
-4. **Admin User Management**
-   - Multiple admin accounts
-   - Role-based permissions
-   - Admin user CRUD operations
-
----
 
 ## Related Use Cases
 - **UC-002:** Admin Dashboard Navigation
